@@ -1,5 +1,5 @@
 ---
-title: "ここ最近のXperiaの特徴とモデルリスト"
+title: 2019年から現在までの Xperia 各モデルと特徴
 emoji: "📱"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: [Android,Xperia]
@@ -12,7 +12,7 @@ published: true
 - 2018年以前のモデル（Z、XZ Seriesなど）
 - 日本国内で発売されていないモデル
 :::
-## ブランド（Xperia）全体としての特徴
+## 2019年以降 Xperia 全体としての特徴
 - 1 Series 初期のモデルを除き、グレード問わずイヤホンジャックを搭載する
 - SIMピンを必要としない。くぼみに爪を引っ掛けてSIMトレイを引き出す
 - 1 Series 始動時から特徴的な画面比 21:9 の採用を続けてきた
