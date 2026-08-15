@@ -33,7 +33,7 @@ published: true
 | 2025 | Xperia 1 VII | - | Xperia 10 VII | - | - |
 | 2026 | Xperia 1 VIII | - | - | - | - |
 
-### 1 Series
+## 1 Series
 - フラッグシップ機
 - SoC は Qualcomm Snapdragon 8 Series
 - ディスプレイサイズは6.5インチ
@@ -50,7 +50,7 @@ published: true
 | 2025 | Xperia 1 VII | 8E | 19.5:9 | |
 | 2026 | Xperia 1 VIII | 8EGen5 | 19.5:9 | デザイン大幅刷新 |
 
-### 5 Series
+## 5 Series
 - 1 Seriesより一回り小さいハイエンド機
 - SoC は Qualcomm Snapdragon 8 Series
   - 素の馬力がその年の 1 Series と同じ
@@ -65,7 +65,7 @@ published: true
 | 2022 | Xperia 5 IV | 8Gen1 | 21:9 |  |
 | 2023 | Xperia 5 V | 8Gen2 | 21:9 | 2眼化 |
 
-### 8/10 Series
+## 8/10 Series
 - ミドルレンジ機
 - SoC は Qualcomm Snapdragon 6 Series
 - ディスプレイサイズは6.0〜6.1インチ
@@ -83,7 +83,7 @@ published: true
 | 2024 | Xperia 10 VI | 6Gen1 | 21:9 | 2眼化 |
 | 2025 | Xperia 10 VII | 6Gen3 | 19.5:9 | 19.5:9化 |
 
-### Ace Series
+## Ace Series
 - 初代はZ~XZ1似のミッドレンジ機。5.0インチ
 - markII以降はローエンド機。5.5インチで水滴型ノッチ採用
 
@@ -94,7 +94,7 @@ published: true
 | 2022 | Xperia Ace III | SD480 | 18.7:9 | |
 
 
-### その他
+## その他
 - 「Xperia 1 Professional Edition」「Xperia PRO-I 」は一般コンシューマ向けモデル
 - 「Xperia PRO」「PDT-FP1」はカメラ用アクセサリ（もはやスマホではない）
 
