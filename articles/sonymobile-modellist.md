@@ -82,6 +82,7 @@ published: true
 | 2023 | Xperia 10 V | SD695 | 21:9 | 6.1インチ化 |
 | 2024 | Xperia 10 VI | 6Gen1 | 21:9 | 2眼化 |
 | 2025 | Xperia 10 VII | 6Gen3 | 19.5:9 | 19.5:9化 |
+| 2026 | Xperia 10 VIII | 6Gen3 | 19.5:9 | |
 
 ## Ace Series
 - 初代はZ~XZ1似のミッドレンジ機。5.0インチ
