@@ -31,7 +31,7 @@ published: true
 | 2023 | Xperia 1 V | Xperia 5 V | Xperia 10 V | - | - |
 | 2024 | Xperia 1 VI | - | Xperia 10 VI | - | PDT-FP1 |
 | 2025 | Xperia 1 VII | - | Xperia 10 VII | - | - |
-| 2026 | Xperia 1 VIII | - | - | - | - |
+| 2026 | Xperia 1 VIII | - | Xperia 10 VIII | - | - |
 
 ## 1 Series
 - フラッグシップ機
