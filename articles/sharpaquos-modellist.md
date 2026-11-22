@@ -30,7 +30,7 @@ published: true
 | 2023 | AQUOS R8<br>AQUOS R8 pro | AQUOS sense8 | AQUOS wish3 |
 | 2024 | AQUOS R9<br>AQUOS R9 pro | AQUOS sense9 | AQUOS wish4 |
 | 2025 | AQUOS R10 | AQUOS sense10 | AQUOS wish5 |
-| 2026 | AQUOS R11 | - | AQUOS wish6 |
+| 2026 | AQUOS R11 | AQUOS sense11 | AQUOS wish6 |
 
 ### その他ライン
 | 発売年| zero Series | LEITZ PHONE |
@@ -98,6 +98,7 @@ published: true
 | 2023 | AQUOS sense8 | 6Gen1 | 6.1インチ | 20.2:9 | - |
 | 2024 | AQUOS sense9 | 7sGen2 | 6.1インチ | 19.5:9 | イヤホンジャック廃止 |
 | 2025 | AQUOS sense10 | 7sGen3 | 6.1インチ | 19.5:9 | - |
+| 2026 | AQUOS sense11 | 7sGen3 | 6.2インチ | 19.5:9 | - |
 
 ## wish Series
 - ローエンド機
