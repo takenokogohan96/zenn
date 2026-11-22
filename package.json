@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/takenokogohan96/zenn#readme",
   "dependencies": {
-    "zenn-cli": "^0.5.2"
+    "zenn-cli": "^0.5.15"
   }
 }
